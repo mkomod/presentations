@@ -1,6 +1,6 @@
 # Index
 
-## Integrating Multi-omics Datasets with Sparse Canonical Correlation Analysis
+## 22/02/21 - Integrating Multi-omics datasets 
 
 #### Abstract
 
