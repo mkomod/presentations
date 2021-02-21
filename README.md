@@ -1,6 +1,10 @@
 # Index
 
+---
+
 ## 22/02/21 - Integrating Multi-omics datasets 
+
+[Slides](./210222_Integrating_Multi-Omics/Integrating_Multi-Omics.pdf)
 
 #### Abstract
 
@@ -12,3 +16,4 @@ We integrate radiomic and transcriptomic data from patients with ovariancancer u
  - [Code Repository](https://github.com/mkomod/ovc)
  - [rCCA Package](https://github.com/mkomod/rcca)
 
+---
