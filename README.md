@@ -1,4 +1,15 @@
-# Index
+---
+
+## 26/02/21 - Gaussian Processes for Survival Analysis
+
+[Slides](./210226_Gaussian_Processes/gp_surv.pdf)
+
+A presentation of the paper "Gaussian Processes for Survival Analysis" by Tamara Fernandez et al., presented to the Imperial CSML reading group.
+
+#### Materials
+
+[Original paper](https://arxiv.org/pdf/1611.00817.pdf)
+
 
 ---
 
