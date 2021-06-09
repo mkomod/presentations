@@ -1,5 +1,18 @@
 ---
 
+## 26/02/21 - Scalable Non-parametric sampling for Multimodal posteriors with the Posterior Bootstrap
+
+[Slides](./210610_Posterior_Bootstrap/post_boot.pdf)
+
+A presentation of the paper "Scalable Non-parametric sampling for Multimodal posteriors with the Posterior Bootstrap" by Edwin Fong et al., presented to the Imperial CSML reading group.
+
+#### Materials
+
+[Original paper](https://arxiv.org/pdf/1902.03175.pdf)
+
+
+---
+
 ## 26/02/21 - Gaussian Processes for Survival Analysis
 
 [Slides](./210226_Gaussian_Processes/gp_surv.pdf)
