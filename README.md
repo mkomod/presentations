@@ -1,8 +1,8 @@
 ---
 
-## 26/02/21 - Scalable Non-parametric sampling for Multimodal posteriors with the Posterior Bootstrap
+## 11/06/21 - Scalable Non-parametric sampling for Multimodal posteriors with the Posterior Bootstrap
 
-[Slides](./210610_Posterior_Bootstrap/post_boot.pdf)
+[Slides](./210611_Posterior_Bootstrap/post_boot.pdf)
 
 A presentation of the paper "Scalable Non-parametric sampling for Multimodal posteriors with the Posterior Bootstrap" by Edwin Fong et al., presented to the Imperial CSML reading group.
 
