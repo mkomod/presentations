@@ -1,5 +1,13 @@
 ---
 
+## 18/10/21 - An introduction to Spike-and-Slab priors
+
+[Slides](./211015_Intro_to_Spike_and_Slab_priors/issp.pdf)
+
+An introduction to Spike-and-Slab priors with applications to high-dimensional regression.
+
+---
+
 ## 11/06/21 - Scalable Non-parametric sampling for Multimodal posteriors with the Posterior Bootstrap
 
 [Slides](./210611_Posterior_Bootstrap/post_boot.pdf)
