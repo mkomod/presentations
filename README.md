@@ -1,7 +1,7 @@
 
 ---
 
-## 18/10/21 - Spike-and-Slab priors in Practice
+## 29/11/21 - Spike-and-Slab priors in Practice
 
 [Slides](./211129_Spike_and_Slab_in_Practice/ssp.pdf)
 
