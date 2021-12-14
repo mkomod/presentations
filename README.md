@@ -1,3 +1,12 @@
+
+---
+
+## 18/10/21 - Spike-and-Slab priors in Practice
+
+[Slides](./211129_Spike_and_Slab_in_Practice/ssp.pdf)
+
+The practical uses of spike-and-slab priors.
+
 ---
 
 ## 18/10/21 - An introduction to Spike-and-Slab priors
