@@ -10,6 +10,11 @@ Presentation of "Variational Bayes for high-dimensional proportional hazards mod
 
 High-throughput sequencing has led to a wave of innovation in biomedical sciences, offering extraordinary opportunities for prognostic modelling and understanding diseases drivers. However, the high-dimensionality and heterogeneity of large-scale profiling data introduces considerable challenges. We propose an interpretable Bayesian proportional hazards model for prediction and variable selection, referred to as SVB. Our method, based on a mean-field variational approximation, overcomes the high computational cost of MCMC whilst retaining the useful features, providing excellent point estimates and offering a natural mechanism for variable selection via posterior inclusion probabilities. The performance of our proposed method is assessed via extensive simulations and compared against other state-of-the-art Bayesian variable selection methods, demonstrating comparable or better performance. Finally, we demonstrate how the proposed method can be used for variable selection on two transcriptomic datasets with censored survival outcomes, where we identify genes with pre-existing biological interpretations.
 
+**Referenced Packages**
+
+ - https://github.com/mkomod/survival.svb
+ - https://github.com/mkomod/survival.ss
+
 Presented at: CMStatistics 2021.
 
 ---
