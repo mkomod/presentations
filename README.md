@@ -1,6 +1,6 @@
 ---
 
-## 29/12/18 - [Problems and Paradoxes in High-dimensional spaces](./220207_Problem_and_paradoxes_in_HDS/main.pdf)
+## 08/02/22 - [Problems and Paradoxes in High-dimensional spaces](./220207_Problem_and_paradoxes_in_HDS/main.pdf)
 
 **Abstract**
 
@@ -12,7 +12,7 @@ High-dimensional spaces are strange places, our intuition can often be misleadin
 
 ---
 
-## 29/12/18 - VB for high-dimensional survival analysis
+## 29/12/21 - VB for high-dimensional survival analysis
 
 [Slides](./211218_Variational_Bayes_for_high_dim_Survival/vb_hds.pdf)
 
