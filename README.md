@@ -1,5 +1,17 @@
 ---
 
+## 29/12/18 - [Problems and Paradoxes in High-dimensional spaces](./220207_Problem_and_paradoxes_in_HDS/main.pdf)
+
+**Abstract**
+
+High-dimensional spaces are strange places, our intuition can often be misleading and our notions of distances uninformative. How can we circumvent these issues and develop useful statistical tools for high-dimensional datasets?
+
+**Further reading**
+
+[Introduction to High-dimensional statistics (Giraud, 2021)](https://www.taylorfrancis.com/books/mono/10.1201/9781003158745/introduction-high-dimensional-statistics-christophe-giraud)
+
+---
+
 ## 29/12/18 - VB for high-dimensional survival analysis
 
 [Slides](./211218_Variational_Bayes_for_high_dim_Survival/vb_hds.pdf)
