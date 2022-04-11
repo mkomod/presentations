@@ -1,5 +1,15 @@
 ---
 
+## 11/04/22 - Sparsity Patterns
+
+[Slides](./220410_Model_selection_and_sparsity_patterns/main.pdf)
+
+**Abstract**
+
+There are many ways of inducing sparsity for high-dimensional regression, within this presentation we introduce three of the most common: coordinate sparsity, group sparsity, and sparse-group sparsity. Furthermore, we showcase usecases and provide a rule of thumb when each should be used.
+
+---
+
 ## 08/02/22 - Problems and Paradoxes in High-dimensional spaces
 
 [Slides](./220207_Problem_and_paradoxes_in_HDS/main.pdf)
